@@ -9,7 +9,7 @@ A Java-based implementation of the Wordle game, featuring multiplayer support wi
 - **Data Persistence**: User data and game statistics are saved in JSON format.
 - **Communication Protocols**:
   - **TCP**: Used for gameplay and user login.
-  - **UDP**: Utilized for sharing statistics among users.
+  - **UDP**: Used for sharing statistics among users.
 
 ## Usage Instructions
 
